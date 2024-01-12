@@ -1,0 +1,460 @@
+Position,PositionText,Points,DriverId,GivenName,FamilyName,Race,Race_name
+1,1,25,max_verstappen,Max,Verstappen,1,Bahrain Grand Prix
+1,1,25,max_verstappen,Max,Verstappen,1,Bahrain Grand Prix
+1,1,25,max_verstappen,Max,Verstappen,,Bahrain Grand Prix
+1,1,25,max_verstappen,Max,Verstappen,,Bahrain Grand Prix
+2,2,18,perez,Sergio,Pérez,1,Bahrain Grand Prix
+3,3,15,alonso,Fernando,Alonso,1,Bahrain Grand Prix
+4,4,12,sainz,Carlos,Sainz,1,Bahrain Grand Prix
+5,5,10,hamilton,Lewis,Hamilton,1,Bahrain Grand Prix
+6,6,8,stroll,Lance,Stroll,1,Bahrain Grand Prix
+7,7,6,russell,George,Russell,1,Bahrain Grand Prix
+8,8,4,bottas,Valtteri,Bottas,1,Bahrain Grand Prix
+9,9,2,gasly,Pierre,Gasly,1,Bahrain Grand Prix
+10,10,1,albon,Alexander,Albon,1,Bahrain Grand Prix
+11,11,0,tsunoda,Yuki,Tsunoda,1,Bahrain Grand Prix
+12,12,0,sargeant,Logan,Sargeant,1,Bahrain Grand Prix
+13,13,0,kevin_magnussen,Kevin,Magnussen,1,Bahrain Grand Prix
+14,14,0,de_vries,Nyck,de Vries,1,Bahrain Grand Prix
+15,15,0,hulkenberg,Nico,Hülkenberg,1,Bahrain Grand Prix
+16,16,0,zhou,Guanyu,Zhou,1,Bahrain Grand Prix
+17,17,0,norris,Lando,Norris,1,Bahrain Grand Prix
+18,R,0,ocon,Esteban,Ocon,1,Bahrain Grand Prix
+19,R,0,leclerc,Charles,Leclerc,1,Bahrain Grand Prix
+20,R,0,piastri,Oscar,Piastri,1,Bahrain Grand Prix
+1,1,25,perez,Sergio,Pérez,2,Saudi Arabian Grand Prix
+2,2,19,max_verstappen,Max,Verstappen,2,Saudi Arabian Grand Prix
+3,3,15,alonso,Fernando,Alonso,2,Saudi Arabian Grand Prix
+4,4,12,russell,George,Russell,2,Saudi Arabian Grand Prix
+5,5,10,hamilton,Lewis,Hamilton,2,Saudi Arabian Grand Prix
+6,6,8,sainz,Carlos,Sainz,2,Saudi Arabian Grand Prix
+7,7,6,leclerc,Charles,Leclerc,2,Saudi Arabian Grand Prix
+8,8,4,ocon,Esteban,Ocon,2,Saudi Arabian Grand Prix
+9,9,2,gasly,Pierre,Gasly,2,Saudi Arabian Grand Prix
+10,10,1,kevin_magnussen,Kevin,Magnussen,2,Saudi Arabian Grand Prix
+11,11,0,tsunoda,Yuki,Tsunoda,2,Saudi Arabian Grand Prix
+12,12,0,hulkenberg,Nico,Hülkenberg,2,Saudi Arabian Grand Prix
+13,13,0,zhou,Guanyu,Zhou,2,Saudi Arabian Grand Prix
+14,14,0,de_vries,Nyck,de Vries,2,Saudi Arabian Grand Prix
+15,15,0,piastri,Oscar,Piastri,2,Saudi Arabian Grand Prix
+16,16,0,sargeant,Logan,Sargeant,2,Saudi Arabian Grand Prix
+17,17,0,norris,Lando,Norris,2,Saudi Arabian Grand Prix
+18,18,0,bottas,Valtteri,Bottas,2,Saudi Arabian Grand Prix
+19,R,0,albon,Alexander,Albon,2,Saudi Arabian Grand Prix
+20,R,0,stroll,Lance,Stroll,2,Saudi Arabian Grand Prix
+1,1,25,max_verstappen,Max,Verstappen,3,Australian Grand Prix
+2,2,18,hamilton,Lewis,Hamilton,3,Australian Grand Prix
+3,3,15,alonso,Fernando,Alonso,3,Australian Grand Prix
+4,4,12,stroll,Lance,Stroll,3,Australian Grand Prix
+5,5,11,perez,Sergio,Pérez,3,Australian Grand Prix
+6,6,8,norris,Lando,Norris,3,Australian Grand Prix
+7,7,6,hulkenberg,Nico,Hülkenberg,3,Australian Grand Prix
+8,8,4,piastri,Oscar,Piastri,3,Australian Grand Prix
+9,9,2,zhou,Guanyu,Zhou,3,Australian Grand Prix
+9,9,2,zhou,Guanyu,Zhou,3,Australian Grand Prix
+9,9,2,zhou,Guanyu,Zhou,3,Australian Grand Prix
+9,9,2,zhou,Guanyu,Zhou,3,Australian Grand Prix
+9,9,2,zhou,Guanyu,Zhou,3,Australian Grand Prix
+10,10,1,tsunoda,Yuki,Tsunoda,3,Australian Grand Prix
+11,11,0,bottas,Valtteri,Bottas,3,Australian Grand Prix
+12,12,0,sainz,Carlos,Sainz,3,Australian Grand Prix
+13,13,0,gasly,Pierre,Gasly,3,Australian Grand Prix
+14,14,0,ocon,Esteban,Ocon,3,Australian Grand Prix
+14,14,0,ocon,Esteban,Ocon,3,Australian Grand Prix
+14,14,0,ocon,Esteban,Ocon,3,Australian Grand Prix
+14,14,0,ocon,Esteban,Ocon,3,Australian Grand Prix
+14,14,0,ocon,Esteban,Ocon,3,Australian Grand Prix
+14,14,0,ocon,Esteban,Ocon,3,Australian Grand Prix
+14,14,0,ocon,Esteban,Ocon,3,Australian Grand Prix
+14,14,0,ocon,Esteban,Ocon,3,Australian Grand Prix
+14,14,0,ocon,Esteban,Ocon,3,Australian Grand Prix
+14,14,0,ocon,Esteban,Ocon,3,Australian Grand Prix
+14,14,0,ocon,Esteban,Ocon,3,Australian Grand Prix
+15,15,0,de_vries,Nyck,de Vries,3,Australian Grand Prix
+15,15,0,de_vries,Nyck,de Vries,3,Australian Grand Prix
+15,15,0,de_vries,Nyck,de Vries,3,Australian Grand Prix
+16,16,0,sargeant,Logan,Sargeant,3,Australian Grand Prix
+17,17,0,kevin_magnussen,Kevin,Magnussen,3,Australian Grand Prix
+18,R,0,russell,George,Russell,3,Australian Grand Prix
+19,R,0,albon,Alexander,Albon,3,Australian Grand Prix
+20,R,0,leclerc,Charles,Leclerc,3,Australian Grand Prix
+1,1,25,perez,Sergio,Pérez,4,Azerbaijan Grand Prix
+2,2,18,max_verstappen,Max,Verstappen,4,Azerbaijan Grand Prix
+3,3,15,leclerc,Charles,Leclerc,4,Azerbaijan Grand Prix
+4,4,12,alonso,Fernando,Alonso,4,Azerbaijan Grand Prix
+5,5,10,sainz,Carlos,Sainz,4,Azerbaijan Grand Prix
+6,6,8,hamilton,Lewis,Hamilton,4,Azerbaijan Grand Prix
+7,7,6,stroll,Lance,Stroll,4,Azerbaijan Grand Prix
+8,8,5,russell,George,Russell,4,Azerbaijan Grand Prix
+9,9,2,norris,Lando,Norris,4,Azerbaijan Grand Prix
+10,10,1,tsunoda,Yuki,Tsunoda,4,Azerbaijan Grand Prix
+11,11,0,piastri,Oscar,Piastri,4,Azerbaijan Grand Prix
+12,12,0,albon,Alexander,Albon,4,Azerbaijan Grand Prix
+13,13,0,kevin_magnussen,Kevin,Magnussen,4,Azerbaijan Grand Prix
+14,14,0,gasly,Pierre,Gasly,4,Azerbaijan Grand Prix
+15,15,0,ocon,Esteban,Ocon,4,Azerbaijan Grand Prix
+16,16,0,sargeant,Logan,Sargeant,4,Azerbaijan Grand Prix
+17,17,0,hulkenberg,Nico,Hülkenberg,4,Azerbaijan Grand Prix
+18,18,0,bottas,Valtteri,Bottas,4,Azerbaijan Grand Prix
+19,R,0,zhou,Guanyu,Zhou,4,Azerbaijan Grand Prix
+20,R,0,de_vries,Nyck,de Vries,4,Azerbaijan Grand Prix
+1,1,26,max_verstappen,Max,Verstappen,5,Miami Grand Prix
+2,2,18,perez,Sergio,Pérez,5,Miami Grand Prix
+3,3,15,alonso,Fernando,Alonso,5,Miami Grand Prix
+4,4,12,russell,George,Russell,5,Miami Grand Prix
+5,5,10,sainz,Carlos,Sainz,5,Miami Grand Prix
+6,6,8,hamilton,Lewis,Hamilton,5,Miami Grand Prix
+7,7,6,leclerc,Charles,Leclerc,5,Miami Grand Prix
+8,8,4,gasly,Pierre,Gasly,5,Miami Grand Prix
+9,9,2,ocon,Esteban,Ocon,5,Miami Grand Prix
+10,10,1,kevin_magnussen,Kevin,Magnussen,5,Miami Grand Prix
+11,11,0,tsunoda,Yuki,Tsunoda,5,Miami Grand Prix
+12,12,0,stroll,Lance,Stroll,5,Miami Grand Prix
+13,13,0,bottas,Valtteri,Bottas,5,Miami Grand Prix
+14,14,0,albon,Alexander,Albon,5,Miami Grand Prix
+15,15,0,hulkenberg,Nico,Hülkenberg,5,Miami Grand Prix
+16,16,0,zhou,Guanyu,Zhou,5,Miami Grand Prix
+17,17,0,norris,Lando,Norris,5,Miami Grand Prix
+18,18,0,de_vries,Nyck,de Vries,5,Miami Grand Prix
+19,19,0,piastri,Oscar,Piastri,5,Miami Grand Prix
+20,20,0,sargeant,Logan,Sargeant,5,Miami Grand Prix
+1,1,25,max_verstappen,Max,Verstappen,6,Monaco Grand Prix
+2,2,18,alonso,Fernando,Alonso,6,Monaco Grand Prix
+3,3,15,ocon,Esteban,Ocon,6,Monaco Grand Prix
+4,4,13,hamilton,Lewis,Hamilton,6,Monaco Grand Prix
+5,5,10,russell,George,Russell,6,Monaco Grand Prix
+6,6,8,leclerc,Charles,Leclerc,6,Monaco Grand Prix
+7,7,6,gasly,Pierre,Gasly,6,Monaco Grand Prix
+8,8,4,sainz,Carlos,Sainz,6,Monaco Grand Prix
+9,9,2,norris,Lando,Norris,6,Monaco Grand Prix
+10,10,1,piastri,Oscar,Piastri,6,Monaco Grand Prix
+11,11,0,bottas,Valtteri,Bottas,6,Monaco Grand Prix
+12,12,0,de_vries,Nyck,de Vries,6,Monaco Grand Prix
+13,13,0,zhou,Guanyu,Zhou,6,Monaco Grand Prix
+14,14,0,albon,Alexander,Albon,6,Monaco Grand Prix
+15,15,0,tsunoda,Yuki,Tsunoda,6,Monaco Grand Prix
+16,16,0,perez,Sergio,Pérez,6,Monaco Grand Prix
+17,17,0,hulkenberg,Nico,Hülkenberg,6,Monaco Grand Prix
+18,18,0,sargeant,Logan,Sargeant,6,Monaco Grand Prix
+19,R,0,kevin_magnussen,Kevin,Magnussen,6,Monaco Grand Prix
+20,R,0,stroll,Lance,Stroll,6,Monaco Grand Prix
+1,1,26,max_verstappen,Max,Verstappen,7,Spanish Grand Prix
+2,2,18,hamilton,Lewis,Hamilton,7,Spanish Grand Prix
+3,3,15,russell,George,Russell,7,Spanish Grand Prix
+4,4,12,perez,Sergio,Pérez,7,Spanish Grand Prix
+5,5,10,sainz,Carlos,Sainz,7,Spanish Grand Prix
+6,6,8,stroll,Lance,Stroll,7,Spanish Grand Prix
+7,7,6,alonso,Fernando,Alonso,7,Spanish Grand Prix
+8,8,4,ocon,Esteban,Ocon,7,Spanish Grand Prix
+9,9,2,zhou,Guanyu,Zhou,7,Spanish Grand Prix
+10,10,1,gasly,Pierre,Gasly,7,Spanish Grand Prix
+11,11,0,leclerc,Charles,Leclerc,7,Spanish Grand Prix
+12,12,0,tsunoda,Yuki,Tsunoda,7,Spanish Grand Prix
+13,13,0,piastri,Oscar,Piastri,7,Spanish Grand Prix
+14,14,0,de_vries,Nyck,de Vries,7,Spanish Grand Prix
+15,15,0,hulkenberg,Nico,Hülkenberg,7,Spanish Grand Prix
+16,16,0,albon,Alexander,Albon,7,Spanish Grand Prix
+17,17,0,norris,Lando,Norris,7,Spanish Grand Prix
+18,18,0,kevin_magnussen,Kevin,Magnussen,7,Spanish Grand Prix
+19,19,0,bottas,Valtteri,Bottas,7,Spanish Grand Prix
+20,20,0,sargeant,Logan,Sargeant,7,Spanish Grand Prix
+1,1,25,max_verstappen,Max,Verstappen,8,Canadian Grand Prix
+2,2,18,alonso,Fernando,Alonso,8,Canadian Grand Prix
+3,3,15,hamilton,Lewis,Hamilton,8,Canadian Grand Prix
+4,4,12,leclerc,Charles,Leclerc,8,Canadian Grand Prix
+5,5,10,sainz,Carlos,Sainz,8,Canadian Grand Prix
+6,6,9,perez,Sergio,Pérez,8,Canadian Grand Prix
+7,7,6,albon,Alexander,Albon,8,Canadian Grand Prix
+8,8,4,ocon,Esteban,Ocon,8,Canadian Grand Prix
+9,9,2,stroll,Lance,Stroll,8,Canadian Grand Prix
+10,10,1,bottas,Valtteri,Bottas,8,Canadian Grand Prix
+11,11,0,piastri,Oscar,Piastri,8,Canadian Grand Prix
+12,12,0,gasly,Pierre,Gasly,8,Canadian Grand Prix
+13,13,0,norris,Lando,Norris,8,Canadian Grand Prix
+14,14,0,tsunoda,Yuki,Tsunoda,8,Canadian Grand Prix
+15,15,0,hulkenberg,Nico,Hülkenberg,8,Canadian Grand Prix
+16,16,0,zhou,Guanyu,Zhou,8,Canadian Grand Prix
+17,17,0,kevin_magnussen,Kevin,Magnussen,8,Canadian Grand Prix
+18,18,0,de_vries,Nyck,de Vries,8,Canadian Grand Prix
+19,R,0,russell,George,Russell,8,Canadian Grand Prix
+20,R,0,sargeant,Logan,Sargeant,8,Canadian Grand Prix
+1,1,26,max_verstappen,Max,Verstappen,9,Austrian Grand Prix
+2,2,18,leclerc,Charles,Leclerc,9,Austrian Grand Prix
+3,3,15,perez,Sergio,Pérez,9,Austrian Grand Prix
+4,4,12,norris,Lando,Norris,9,Austrian Grand Prix
+5,5,10,alonso,Fernando,Alonso,9,Austrian Grand Prix
+6,6,8,sainz,Carlos,Sainz,9,Austrian Grand Prix
+7,7,6,russell,George,Russell,9,Austrian Grand Prix
+8,8,4,hamilton,Lewis,Hamilton,9,Austrian Grand Prix
+9,9,2,stroll,Lance,Stroll,9,Austrian Grand Prix
+10,10,1,gasly,Pierre,Gasly,9,Austrian Grand Prix
+11,11,0,albon,Alexander,Albon,9,Austrian Grand Prix
+12,12,0,zhou,Guanyu,Zhou,9,Austrian Grand Prix
+13,13,0,sargeant,Logan,Sargeant,9,Austrian Grand Prix
+14,14,0,ocon,Esteban,Ocon,9,Austrian Grand Prix
+15,15,0,bottas,Valtteri,Bottas,9,Austrian Grand Prix
+16,16,0,piastri,Oscar,Piastri,9,Austrian Grand Prix
+17,17,0,de_vries,Nyck,de Vries,9,Austrian Grand Prix
+18,18,0,kevin_magnussen,Kevin,Magnussen,9,Austrian Grand Prix
+19,19,0,tsunoda,Yuki,Tsunoda,9,Austrian Grand Prix
+20,R,0,hulkenberg,Nico,Hülkenberg,9,Austrian Grand Prix
+1,1,26,max_verstappen,Max,Verstappen,10,British Grand Prix
+2,2,18,norris,Lando,Norris,10,British Grand Prix
+3,3,15,hamilton,Lewis,Hamilton,10,British Grand Prix
+4,4,12,piastri,Oscar,Piastri,10,British Grand Prix
+5,5,10,russell,George,Russell,10,British Grand Prix
+6,6,8,perez,Sergio,Pérez,10,British Grand Prix
+7,7,6,alonso,Fernando,Alonso,10,British Grand Prix
+8,8,4,albon,Alexander,Albon,10,British Grand Prix
+9,9,2,leclerc,Charles,Leclerc,10,British Grand Prix
+10,10,1,sainz,Carlos,Sainz,10,British Grand Prix
+11,11,0,sargeant,Logan,Sargeant,10,British Grand Prix
+12,12,0,bottas,Valtteri,Bottas,10,British Grand Prix
+13,13,0,hulkenberg,Nico,Hülkenberg,10,British Grand Prix
+14,14,0,stroll,Lance,Stroll,10,British Grand Prix
+15,15,0,zhou,Guanyu,Zhou,10,British Grand Prix
+16,16,0,tsunoda,Yuki,Tsunoda,10,British Grand Prix
+17,17,0,de_vries,Nyck,de Vries,10,British Grand Prix
+18,18,0,gasly,Pierre,Gasly,10,British Grand Prix
+19,R,0,kevin_magnussen,Kevin,Magnussen,10,British Grand Prix
+20,R,0,ocon,Esteban,Ocon,10,British Grand Prix
+1,1,26,max_verstappen,Max,Verstappen,11,Hungarian Grand Prix
+2,2,18,norris,Lando,Norris,11,Hungarian Grand Prix
+3,3,15,perez,Sergio,Pérez,11,Hungarian Grand Prix
+4,4,12,hamilton,Lewis,Hamilton,11,Hungarian Grand Prix
+5,5,10,piastri,Oscar,Piastri,11,Hungarian Grand Prix
+6,6,8,russell,George,Russell,11,Hungarian Grand Prix
+7,7,6,leclerc,Charles,Leclerc,11,Hungarian Grand Prix
+8,8,4,sainz,Carlos,Sainz,11,Hungarian Grand Prix
+9,9,2,alonso,Fernando,Alonso,11,Hungarian Grand Prix
+10,10,1,stroll,Lance,Stroll,11,Hungarian Grand Prix
+11,11,0,albon,Alexander,Albon,11,Hungarian Grand Prix
+12,12,0,bottas,Valtteri,Bottas,11,Hungarian Grand Prix
+13,13,0,ricciardo,Daniel,Ricciardo,11,Hungarian Grand Prix
+14,14,0,hulkenberg,Nico,Hülkenberg,11,Hungarian Grand Prix
+15,15,0,tsunoda,Yuki,Tsunoda,11,Hungarian Grand Prix
+16,16,0,zhou,Guanyu,Zhou,11,Hungarian Grand Prix
+17,17,0,kevin_magnussen,Kevin,Magnussen,11,Hungarian Grand Prix
+18,R,0,sargeant,Logan,Sargeant,11,Hungarian Grand Prix
+19,R,0,ocon,Esteban,Ocon,11,Hungarian Grand Prix
+20,R,0,gasly,Pierre,Gasly,11,Hungarian Grand Prix
+1,1,25,max_verstappen,Max,Verstappen,12,Belgian Grand Prix
+2,2,18,perez,Sergio,Pérez,12,Belgian Grand Prix
+3,3,15,leclerc,Charles,Leclerc,12,Belgian Grand Prix
+4,4,13,hamilton,Lewis,Hamilton,12,Belgian Grand Prix
+5,5,10,alonso,Fernando,Alonso,12,Belgian Grand Prix
+6,6,8,russell,George,Russell,12,Belgian Grand Prix
+7,7,6,norris,Lando,Norris,12,Belgian Grand Prix
+8,8,4,ocon,Esteban,Ocon,12,Belgian Grand Prix
+9,9,2,stroll,Lance,Stroll,12,Belgian Grand Prix
+10,10,1,tsunoda,Yuki,Tsunoda,12,Belgian Grand Prix
+11,11,0,gasly,Pierre,Gasly,12,Belgian Grand Prix
+12,12,0,bottas,Valtteri,Bottas,12,Belgian Grand Prix
+13,13,0,zhou,Guanyu,Zhou,12,Belgian Grand Prix
+14,14,0,albon,Alexander,Albon,12,Belgian Grand Prix
+15,15,0,kevin_magnussen,Kevin,Magnussen,12,Belgian Grand Prix
+16,16,0,ricciardo,Daniel,Ricciardo,12,Belgian Grand Prix
+17,17,0,sargeant,Logan,Sargeant,12,Belgian Grand Prix
+18,18,0,hulkenberg,Nico,Hülkenberg,12,Belgian Grand Prix
+19,R,0,sainz,Carlos,Sainz,12,Belgian Grand Prix
+20,R,0,piastri,Oscar,Piastri,12,Belgian Grand Prix
+1,1,25,max_verstappen,Max,Verstappen,13,Dutch Grand Prix
+2,2,19,alonso,Fernando,Alonso,13,Dutch Grand Prix
+3,3,15,gasly,Pierre,Gasly,13,Dutch Grand Prix
+4,4,12,perez,Sergio,Pérez,13,Dutch Grand Prix
+5,5,10,sainz,Carlos,Sainz,13,Dutch Grand Prix
+6,6,8,hamilton,Lewis,Hamilton,13,Dutch Grand Prix
+7,7,6,norris,Lando,Norris,13,Dutch Grand Prix
+8,8,4,albon,Alexander,Albon,13,Dutch Grand Prix
+9,9,2,piastri,Oscar,Piastri,13,Dutch Grand Prix
+10,10,1,ocon,Esteban,Ocon,13,Dutch Grand Prix
+11,11,0,stroll,Lance,Stroll,13,Dutch Grand Prix
+12,12,0,hulkenberg,Nico,Hülkenberg,13,Dutch Grand Prix
+13,13,0,lawson,Liam,Lawson,13,Dutch Grand Prix
+14,14,0,bottas,Valtteri,Bottas,13,Dutch Grand Prix
+15,15,0,tsunoda,Yuki,Tsunoda,13,Dutch Grand Prix
+16,16,0,kevin_magnussen,Kevin,Magnussen,13,Dutch Grand Prix
+17,17,0,russell,George,Russell,13,Dutch Grand Prix
+18,R,0,zhou,Guanyu,Zhou,13,Dutch Grand Prix
+19,R,0,leclerc,Charles,Leclerc,13,Dutch Grand Prix
+20,R,0,sargeant,Logan,Sargeant,13,Dutch Grand Prix
+1,1,25,max_verstappen,Max,Verstappen,14,Italian Grand Prix
+2,2,18,perez,Sergio,Pérez,14,Italian Grand Prix
+3,3,15,sainz,Carlos,Sainz,14,Italian Grand Prix
+4,4,12,leclerc,Charles,Leclerc,14,Italian Grand Prix
+5,5,10,russell,George,Russell,14,Italian Grand Prix
+6,6,8,hamilton,Lewis,Hamilton,14,Italian Grand Prix
+7,7,6,albon,Alexander,Albon,14,Italian Grand Prix
+8,8,4,norris,Lando,Norris,14,Italian Grand Prix
+9,9,2,alonso,Fernando,Alonso,14,Italian Grand Prix
+10,10,1,bottas,Valtteri,Bottas,14,Italian Grand Prix
+11,11,0,lawson,Liam,Lawson,14,Italian Grand Prix
+12,12,0,piastri,Oscar,Piastri,14,Italian Grand Prix
+13,13,0,sargeant,Logan,Sargeant,14,Italian Grand Prix
+14,14,0,zhou,Guanyu,Zhou,14,Italian Grand Prix
+15,15,0,gasly,Pierre,Gasly,14,Italian Grand Prix
+16,16,0,stroll,Lance,Stroll,14,Italian Grand Prix
+17,17,0,hulkenberg,Nico,Hülkenberg,14,Italian Grand Prix
+18,18,0,kevin_magnussen,Kevin,Magnussen,14,Italian Grand Prix
+19,R,0,ocon,Esteban,Ocon,14,Italian Grand Prix
+20,R,0,tsunoda,Yuki,Tsunoda,14,Italian Grand Prix
+1,1,25,sainz,Carlos,Sainz,15,Singapore Grand Prix
+2,2,18,norris,Lando,Norris,15,Singapore Grand Prix
+3,3,16,hamilton,Lewis,Hamilton,15,Singapore Grand Prix
+4,4,12,leclerc,Charles,Leclerc,15,Singapore Grand Prix
+5,5,10,max_verstappen,Max,Verstappen,15,Singapore Grand Prix
+6,6,8,gasly,Pierre,Gasly,15,Singapore Grand Prix
+7,7,6,piastri,Oscar,Piastri,15,Singapore Grand Prix
+8,8,4,perez,Sergio,Pérez,15,Singapore Grand Prix
+9,9,2,lawson,Liam,Lawson,15,Singapore Grand Prix
+10,10,1,kevin_magnussen,Kevin,Magnussen,15,Singapore Grand Prix
+11,11,0,albon,Alexander,Albon,15,Singapore Grand Prix
+12,12,0,zhou,Guanyu,Zhou,15,Singapore Grand Prix
+13,13,0,hulkenberg,Nico,Hülkenberg,15,Singapore Grand Prix
+14,14,0,sargeant,Logan,Sargeant,15,Singapore Grand Prix
+15,15,0,alonso,Fernando,Alonso,15,Singapore Grand Prix
+16,16,0,russell,George,Russell,15,Singapore Grand Prix
+17,R,0,bottas,Valtteri,Bottas,15,Singapore Grand Prix
+18,R,0,ocon,Esteban,Ocon,15,Singapore Grand Prix
+19,R,0,tsunoda,Yuki,Tsunoda,15,Singapore Grand Prix
+20,W,0,stroll,Lance,Stroll,15,Singapore Grand Prix
+1,1,26,max_verstappen,Max,Verstappen,16,Japanese Grand Prix
+2,2,18,norris,Lando,Norris,16,Japanese Grand Prix
+3,3,15,piastri,Oscar,Piastri,16,Japanese Grand Prix
+4,4,12,leclerc,Charles,Leclerc,16,Japanese Grand Prix
+5,5,10,hamilton,Lewis,Hamilton,16,Japanese Grand Prix
+6,6,8,sainz,Carlos,Sainz,16,Japanese Grand Prix
+7,7,6,russell,George,Russell,16,Japanese Grand Prix
+8,8,4,alonso,Fernando,Alonso,16,Japanese Grand Prix
+9,9,2,ocon,Esteban,Ocon,16,Japanese Grand Prix
+10,10,1,gasly,Pierre,Gasly,16,Japanese Grand Prix
+11,11,0,lawson,Liam,Lawson,16,Japanese Grand Prix
+12,12,0,tsunoda,Yuki,Tsunoda,16,Japanese Grand Prix
+13,13,0,zhou,Guanyu,Zhou,16,Japanese Grand Prix
+14,14,0,hulkenberg,Nico,Hülkenberg,16,Japanese Grand Prix
+15,15,0,kevin_magnussen,Kevin,Magnussen,16,Japanese Grand Prix
+16,R,0,albon,Alexander,Albon,16,Japanese Grand Prix
+17,R,0,sargeant,Logan,Sargeant,16,Japanese Grand Prix
+18,R,0,stroll,Lance,Stroll,16,Japanese Grand Prix
+19,R,0,perez,Sergio,Pérez,16,Japanese Grand Prix
+20,R,0,bottas,Valtteri,Bottas,16,Japanese Grand Prix
+1,1,26,max_verstappen,Max,Verstappen,17,Qatar Grand Prix
+2,2,18,piastri,Oscar,Piastri,17,Qatar Grand Prix
+3,3,15,norris,Lando,Norris,17,Qatar Grand Prix
+4,4,12,russell,George,Russell,17,Qatar Grand Prix
+5,5,10,leclerc,Charles,Leclerc,17,Qatar Grand Prix
+6,6,8,alonso,Fernando,Alonso,17,Qatar Grand Prix
+7,7,6,ocon,Esteban,Ocon,17,Qatar Grand Prix
+8,8,4,bottas,Valtteri,Bottas,17,Qatar Grand Prix
+9,9,2,zhou,Guanyu,Zhou,17,Qatar Grand Prix
+10,10,1,perez,Sergio,Pérez,17,Qatar Grand Prix
+11,11,0,stroll,Lance,Stroll,17,Qatar Grand Prix
+12,12,0,gasly,Pierre,Gasly,17,Qatar Grand Prix
+13,13,0,albon,Alexander,Albon,17,Qatar Grand Prix
+14,14,0,kevin_magnussen,Kevin,Magnussen,17,Qatar Grand Prix
+15,15,0,tsunoda,Yuki,Tsunoda,17,Qatar Grand Prix
+16,16,0,hulkenberg,Nico,Hülkenberg,17,Qatar Grand Prix
+17,17,0,lawson,Liam,Lawson,17,Qatar Grand Prix
+18,R,0,sargeant,Logan,Sargeant,17,Qatar Grand Prix
+19,R,0,hamilton,Lewis,Hamilton,17,Qatar Grand Prix
+20,W,0,sainz,Carlos,Sainz,17,Qatar Grand Prix
+1,1,25,max_verstappen,Max,Verstappen,18,United States Grand Prix
+2,2,18,norris,Lando,Norris,18,United States Grand Prix
+3,3,15,sainz,Carlos,Sainz,18,United States Grand Prix
+4,4,12,perez,Sergio,Pérez,18,United States Grand Prix
+5,5,10,russell,George,Russell,18,United States Grand Prix
+6,6,8,gasly,Pierre,Gasly,18,United States Grand Prix
+7,7,6,stroll,Lance,Stroll,18,United States Grand Prix
+8,8,5,tsunoda,Yuki,Tsunoda,18,United States Grand Prix
+9,9,2,albon,Alexander,Albon,18,United States Grand Prix
+10,10,1,sargeant,Logan,Sargeant,18,United States Grand Prix
+11,11,0,hulkenberg,Nico,Hülkenberg,18,United States Grand Prix
+12,12,0,bottas,Valtteri,Bottas,18,United States Grand Prix
+13,13,0,zhou,Guanyu,Zhou,18,United States Grand Prix
+14,14,0,kevin_magnussen,Kevin,Magnussen,18,United States Grand Prix
+15,15,0,ricciardo,Daniel,Ricciardo,18,United States Grand Prix
+16,R,0,alonso,Fernando,Alonso,18,United States Grand Prix
+17,R,0,piastri,Oscar,Piastri,18,United States Grand Prix
+18,R,0,ocon,Esteban,Ocon,18,United States Grand Prix
+19,D,0,hamilton,Lewis,Hamilton,18,United States Grand Prix
+20,D,0,leclerc,Charles,Leclerc,18,United States Grand Prix
+1,1,25,max_verstappen,Max,Verstappen,19,Mexico City Grand Prix
+2,2,19,hamilton,Lewis,Hamilton,19,Mexico City Grand Prix
+3,3,15,leclerc,Charles,Leclerc,19,Mexico City Grand Prix
+4,4,12,sainz,Carlos,Sainz,19,Mexico City Grand Prix
+5,5,10,norris,Lando,Norris,19,Mexico City Grand Prix
+6,6,8,russell,George,Russell,19,Mexico City Grand Prix
+7,7,6,ricciardo,Daniel,Ricciardo,19,Mexico City Grand Prix
+8,8,4,piastri,Oscar,Piastri,19,Mexico City Grand Prix
+9,9,2,albon,Alexander,Albon,19,Mexico City Grand Prix
+10,10,1,ocon,Esteban,Ocon,19,Mexico City Grand Prix
+11,11,0,gasly,Pierre,Gasly,19,Mexico City Grand Prix
+12,12,0,tsunoda,Yuki,Tsunoda,19,Mexico City Grand Prix
+13,13,0,hulkenberg,Nico,Hülkenberg,19,Mexico City Grand Prix
+14,14,0,zhou,Guanyu,Zhou,19,Mexico City Grand Prix
+15,15,0,bottas,Valtteri,Bottas,19,Mexico City Grand Prix
+16,16,0,sargeant,Logan,Sargeant,19,Mexico City Grand Prix
+17,17,0,stroll,Lance,Stroll,19,Mexico City Grand Prix
+18,R,0,alonso,Fernando,Alonso,19,Mexico City Grand Prix
+19,R,0,kevin_magnussen,Kevin,Magnussen,19,Mexico City Grand Prix
+20,R,0,perez,Sergio,Pérez,19,Mexico City Grand Prix
+1,1,25,max_verstappen,Max,Verstappen,20,São Paulo Grand Prix
+2,2,19,norris,Lando,Norris,20,São Paulo Grand Prix
+3,3,15,alonso,Fernando,Alonso,20,São Paulo Grand Prix
+4,4,12,perez,Sergio,Pérez,20,São Paulo Grand Prix
+5,5,10,stroll,Lance,Stroll,20,São Paulo Grand Prix
+6,6,8,sainz,Carlos,Sainz,20,São Paulo Grand Prix
+7,7,6,gasly,Pierre,Gasly,20,São Paulo Grand Prix
+8,8,4,hamilton,Lewis,Hamilton,20,São Paulo Grand Prix
+9,9,2,tsunoda,Yuki,Tsunoda,20,São Paulo Grand Prix
+10,10,1,ocon,Esteban,Ocon,20,São Paulo Grand Prix
+11,11,0,sargeant,Logan,Sargeant,20,São Paulo Grand Prix
+12,12,0,hulkenberg,Nico,Hülkenberg,20,São Paulo Grand Prix
+13,13,0,ricciardo,Daniel,Ricciardo,20,São Paulo Grand Prix
+14,14,0,piastri,Oscar,Piastri,20,São Paulo Grand Prix
+15,R,0,russell,George,Russell,20,São Paulo Grand Prix
+16,R,0,bottas,Valtteri,Bottas,20,São Paulo Grand Prix
+17,R,0,zhou,Guanyu,Zhou,20,São Paulo Grand Prix
+18,R,0,kevin_magnussen,Kevin,Magnussen,20,São Paulo Grand Prix
+19,R,0,albon,Alexander,Albon,20,São Paulo Grand Prix
+20,W,0,leclerc,Charles,Leclerc,20,São Paulo Grand Prix
+1,1,25,max_verstappen,Max,Verstappen,21,Las Vegas Grand Prix
+2,2,18,leclerc,Charles,Leclerc,21,Las Vegas Grand Prix
+3,3,15,perez,Sergio,Pérez,21,Las Vegas Grand Prix
+4,4,12,ocon,Esteban,Ocon,21,Las Vegas Grand Prix
+5,5,10,stroll,Lance,Stroll,21,Las Vegas Grand Prix
+6,6,8,sainz,Carlos,Sainz,21,Las Vegas Grand Prix
+7,7,6,hamilton,Lewis,Hamilton,21,Las Vegas Grand Prix
+8,8,4,russell,George,Russell,21,Las Vegas Grand Prix
+9,9,2,alonso,Fernando,Alonso,21,Las Vegas Grand Prix
+10,10,2,piastri,Oscar,Piastri,21,Las Vegas Grand Prix
+11,11,0,gasly,Pierre,Gasly,21,Las Vegas Grand Prix
+12,12,0,albon,Alexander,Albon,21,Las Vegas Grand Prix
+13,13,0,kevin_magnussen,Kevin,Magnussen,21,Las Vegas Grand Prix
+14,14,0,ricciardo,Daniel,Ricciardo,21,Las Vegas Grand Prix
+15,15,0,zhou,Guanyu,Zhou,21,Las Vegas Grand Prix
+16,16,0,sargeant,Logan,Sargeant,21,Las Vegas Grand Prix
+17,17,0,bottas,Valtteri,Bottas,21,Las Vegas Grand Prix
+18,18,0,tsunoda,Yuki,Tsunoda,21,Las Vegas Grand Prix
+19,19,0,hulkenberg,Nico,Hülkenberg,21,Las Vegas Grand Prix
+20,R,0,norris,Lando,Norris,21,Las Vegas Grand Prix
+1,1,26,max_verstappen,Max,Verstappen,22,Abu Dhabi Grand Prix
+2,2,18,leclerc,Charles,Leclerc,22,Abu Dhabi Grand Prix
+3,3,15,russell,George,Russell,22,Abu Dhabi Grand Prix
+4,4,12,perez,Sergio,Pérez,22,Abu Dhabi Grand Prix
+5,5,10,norris,Lando,Norris,22,Abu Dhabi Grand Prix
+6,6,8,piastri,Oscar,Piastri,22,Abu Dhabi Grand Prix
+7,7,6,alonso,Fernando,Alonso,22,Abu Dhabi Grand Prix
+8,8,4,tsunoda,Yuki,Tsunoda,22,Abu Dhabi Grand Prix
+9,9,2,hamilton,Lewis,Hamilton,22,Abu Dhabi Grand Prix
+10,10,1,stroll,Lance,Stroll,22,Abu Dhabi Grand Prix
+11,11,0,ricciardo,Daniel,Ricciardo,22,Abu Dhabi Grand Prix
+12,12,0,ocon,Esteban,Ocon,22,Abu Dhabi Grand Prix
+13,13,0,gasly,Pierre,Gasly,22,Abu Dhabi Grand Prix
+14,14,0,albon,Alexander,Albon,22,Abu Dhabi Grand Prix
+15,15,0,hulkenberg,Nico,Hülkenberg,22,Abu Dhabi Grand Prix
+16,16,0,sargeant,Logan,Sargeant,22,Abu Dhabi Grand Prix
+17,17,0,zhou,Guanyu,Zhou,22,Abu Dhabi Grand Prix
+18,18,0,sainz,Carlos,Sainz,22,Abu Dhabi Grand Prix
+19,19,0,bottas,Valtteri,Bottas,22,Abu Dhabi Grand Prix
+20,20,0,kevin_magnussen,Kevin,Magnussen,22,Abu Dhabi Grand Prix
